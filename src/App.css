@@ -1,0 +1,41 @@
+input {
+  padding: 8px;
+  margin-right: 5px;
+}
+
+button {
+  padding: 8px;
+  background-color: #c3dcf7;
+  color: rgb(6, 6, 6);
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #a9c9f7;
+}
+h1 {
+  color: #333;
+  text-align: center;
+}
+background {
+  background-color: #80ece7;
+  padding: 10px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+li button {
+  margin-left: 10px;
+  background-color: rgb(241, 168, 168);
+}
+li button:hover {
+  background-color: rgb(241, 138, 138);
+}
+
+
